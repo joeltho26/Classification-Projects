@@ -5,3 +5,7 @@ numpy
 pandas
 scikit-learn
 Pyarrow
+keras
+tensorflow
+scipy
+statsmodels
