@@ -9,3 +9,5 @@ keras
 tensorflow
 scipy
 statsmodels
+cufflinks
+nbformat==5.9.2
