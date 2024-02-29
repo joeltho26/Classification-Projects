@@ -11,3 +11,7 @@ scipy
 statsmodels
 cufflinks
 nbformat==5.9.2
+nltk
+imblearn
+scikeras[tensorflow]
+xgboost
